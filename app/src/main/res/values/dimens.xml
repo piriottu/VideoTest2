@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="cvb_border_width">4dp</dimen>
+    <dimen name="recorder_width">90dp</dimen>
+    <dimen name="recorder_height">90dp</dimen>
+</resources>
